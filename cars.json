@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "PLACA": "A11D",
+    "MARCA": "SEAT",
+    "MODELO": "LEÓN",
+    "USUARIO": "MATEO"
+  },
+  {
+    "id": 2,
+    "PLACA": "E19D",
+    "MARCA": "REANULT",
+    "MODELO": "MEGANE",
+    "USUARIO": "ALEXANDRA"
+  },
+  {
+    "id": 3,
+    "PLACA": "1AAb7",
+    "MARCA": "chevrolet",
+    "MODELO": "Last",
+    "USUARIO": "NATALIA"
+  }
+]
